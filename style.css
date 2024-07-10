@@ -1,0 +1,23 @@
+#countLabel{
+    display: block; /*treats 0 as a block element and center it*/
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px ;          /* top width Bottom*/
+    font-size: 1.5em;
+    color: white;
+    background-color: aquamarine;
+    border-radius: 5px;           /*rounds the corner of button8*/
+    cursor : pointer;             /*change cursor to point cursor*/
+    transition: background-color 0.25s; /*cause delay in hovering transistion*/
+
+}
+.buttons:hover{
+    background-color: blue;
+}
