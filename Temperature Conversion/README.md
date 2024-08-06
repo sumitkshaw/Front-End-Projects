@@ -2,7 +2,7 @@
 
 This is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit. The project uses HTML, CSS, and JavaScript.
 
-![Temperature Conversion Program](img.png)
+![Temperature Conversion Program](image.png)
 
 ## Table of Contents
 
